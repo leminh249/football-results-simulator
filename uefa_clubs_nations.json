@@ -1619,7 +1619,13 @@
       "nation_iso_code" : "KOS",
       "nation_name" : "Kosovo",
       "fifa_nation_rank" : "177"
-    }
+       }, {
+      "club_country" : "ITA",
+      "club_logo" : "http://img.uefa.com/imgml/TP/teams/logos/70x70/2604874.png",
+      "club_name" : "Pescara Calcio",
+      "club_ranking" : "278",
+      "id" : "164"
+      }
   ]
   }
 }
