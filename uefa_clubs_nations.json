@@ -956,6 +956,12 @@
       "club_name" : "Aalborg BK",
       "club_ranking" : "143",
       "id" : "144"
+       }, {
+      "club_country" : "ITA",
+      "club_logo" : ""http://img.uefa.com/imgml/TP/teams/logos/18x18/2604874.png,
+      "club_name" : "Pescara",
+      "club_ranking" : "278",
+      "id" : "370"
     }, {
       "club_country" : "DEN",
       "club_logo" : "http://img.uefa.com/imgml/TP/teams/logos/18x18/79940.png",
